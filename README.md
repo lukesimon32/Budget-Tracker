@@ -1,6 +1,6 @@
 # Budget-Tracker
 
-In this assignment, we were to add functionality to an existing budget tracker app to allow offline functionality.
+In this assignment, we were to add offline functionality to an existing budget tracker app.
 
 Link to deployed application []
 
